@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.webreformatter.vaadin;
+package org.ubimix.vaadin;
 
 import java.util.Collection;
 import java.util.Iterator;

@@ -9,7 +9,7 @@
  * KIND, either express or implied. See the License for the specific language
  * governing permissions and limitations under the License.
  */
-package org.webreformatter.vaadin.internal;
+package org.ubimix.vaadin.internal;
 
 import java.net.URL;
 import java.util.Properties;
@@ -19,16 +19,16 @@ import javax.servlet.ServletException;
 import org.osgi.service.http.HttpContext;
 import org.osgi.service.http.HttpService;
 import org.osgi.service.http.NamespaceException;
-import org.webreformatter.commons.osgi.ConfigurableMultiserviceActivator;
-import org.webreformatter.commons.osgi.OSGIObjectActivator;
-import org.webreformatter.commons.osgi.OSGIObjectDeactivator;
-import org.webreformatter.commons.osgi.OSGIService;
-import org.webreformatter.commons.osgi.OSGIServiceActivator;
-import org.webreformatter.commons.osgi.OSGIServiceDeactivator;
-import org.webreformatter.vaadin.IWebModule;
-import org.webreformatter.vaadin.IWebResources;
-import org.webreformatter.vaadin.WebApplicationServlet;
-import org.webreformatter.vaadin.WebModuleRegistry;
+import org.ubimix.commons.osgi.ConfigurableMultiserviceActivator;
+import org.ubimix.commons.osgi.OSGIObjectActivator;
+import org.ubimix.commons.osgi.OSGIObjectDeactivator;
+import org.ubimix.commons.osgi.OSGIService;
+import org.ubimix.commons.osgi.OSGIServiceActivator;
+import org.ubimix.commons.osgi.OSGIServiceDeactivator;
+import org.ubimix.vaadin.IWebModule;
+import org.ubimix.vaadin.IWebResources;
+import org.ubimix.vaadin.WebApplicationServlet;
+import org.ubimix.vaadin.WebModuleRegistry;
 
 /**
  * @author kotelnikov

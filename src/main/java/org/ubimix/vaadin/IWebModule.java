@@ -1,4 +1,4 @@
-package org.webreformatter.vaadin;
+package org.ubimix.vaadin;
 
 import com.vaadin.ui.Window;
 

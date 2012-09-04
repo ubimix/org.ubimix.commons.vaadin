@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.webreformatter.vaadin;
+package org.ubimix.vaadin;
 
 import java.net.URL;
 import java.util.ArrayList;
