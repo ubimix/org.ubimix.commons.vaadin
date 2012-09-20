@@ -7,8 +7,8 @@
         <artifactId>org.ubimix.poms.bundle</artifactId>
         <version>1.2.1</version>
     </parent>
-    <groupId>org.ubimix.scrapper</groupId>
-    <artifactId>org.ubimix.vaadin</artifactId>
+    <groupId>org.ubimix.commons</groupId>
+    <artifactId>org.ubimix.commons.vaadin</artifactId>
     <version>1.2.1</version>
     <name>${project.artifactId}</name>
     <packaging>bundle</packaging>
